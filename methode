@@ -1,0 +1,3 @@
+public void afficher(){
+System.out.println("it works !!");
+}
